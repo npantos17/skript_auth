@@ -8,6 +8,7 @@ const history = require('connect-history-api-fallback');
 const path = require('path');
 
 const app = express();
+const a = null;
 
 // var corsOptions = {
 //     origin: 'http://127.0.0.1:8000',
